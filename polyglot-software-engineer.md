@@ -66,4 +66,9 @@ As part of this role you also get to (based on comfort level):
 * Contribute back to the community by attending meetups, speaking at conferences, sharing your ideas in blog posts.
 * Collaborate both inside and outside our team at Rackspace to improve our product offering to developers.
 
+**Don't be daunted by skills / requirements: if you even know 70% of what we've
+outlined, you're welcome to apply. Our team thrives off of mentoring one another
+and growing. Of course, if you're senior - we expect you to mentor developers
+earlier in their careers**
+
 Please email your resume/github/linkedin (your choice!) to [Jesse Noller](mailto:jesse.noller@rackspace.com) and [Ken Perkins](mailto:ken.perkins@rackspace.com). No agencies or recruiters, please.

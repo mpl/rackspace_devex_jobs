@@ -25,6 +25,11 @@ developers, then we want to talk to you!
 
 ## Open Jobs:
 
+**Don't be daunted by skills / requirements: if you even know 70% of what we've
+outlined, you're welcome to apply. Our team thrives off of mentoring one another
+and growing. Of course, if you're senior - we expect you to mentor developers
+earlier in their careers**
+
 * [Senior Manager, Engineering](https://github.com/jnoller/rackspace_devex_jobs/blob/master/engineering-manager.md)
 * [.NET/C# Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/windows-dot-net.md)
 * [Front-end / Full stack Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/front-end-full-stack.md)

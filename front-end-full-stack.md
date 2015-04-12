@@ -64,6 +64,9 @@ about another programming language such as Swift, Go, Javascript?
 * Proven ability to implement a back-to-front end application
 * High energy level and creative problem-solving abilities, coupled with a desire to take on responsibility
 
-You can apply through the [Rackspace career portal](https://uscareers-rackspace.icims.com/jobs/12892/sr.-full-stack-developer-for-developer-experience/job), or reach out to me directly via email,
+**Don't be daunted by skills / requirements: if you even know 70% of what we've
+outlined, you're welcome to apply. Our team thrives off of mentoring one another
+and growing. Of course, if you're senior - we expect you to mentor developers
+earlier in their careers.**
 
 Please email your resume/github/linkedin (your choice!) to [Jesse Noller](mailto:jesse.noller@rackspace.com) and [Ken Perkins](mailto:ken.perkins@rackspace.com). No agencies or recruiters, please.
