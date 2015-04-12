@@ -36,7 +36,7 @@ San Francisco, CA or Blacksburg, VA**
 
 As part of this role you also get to (based on comfort level):
 
-* Participate in multiple open-source project/community.
+* Participate in multiple open-source projects/communities.
 * Attend, speak at or sponsor industry / community meetups, conferences, etc.
 * Expand your skillset - want to learn a new tool like Terraform, Ansible? How about another programming language such as Swift, Go, Javascript?
 * Blog & write to teach new or interesting technologies.
