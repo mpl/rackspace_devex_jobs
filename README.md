@@ -23,6 +23,18 @@ If you believe in helping define, lead, and drive strategies focused on the
 technical end user, as well as leading and growing a team of senior software
 developers, then we want to talk to you!
 
+## Open Jobs:
+
+* [Senior Manager, Engineering](https://github.com/jnoller/rackspace_devex_jobs/blob/master/engineering-manager.md)
+* [.NET/C# Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/windows-dot-net.md)
+* [Front-end / Full stack Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/front-end-full-stack.md)
+* [Polyglot Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/polyglot-software-engineer.md)
+* [Java Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/senior-java-engineer.md)
+
+**Equal Employment Opportunity Policy**: Rackspace is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
+
+Recenetly recognized by the Anita Borg institute as one of the
+[top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
 
 ## To apply, email your resume to:
 
