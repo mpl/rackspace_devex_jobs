@@ -28,9 +28,7 @@ to learn, and shows determination and acumen.
 See our [Developer Portal](https://developer.rackspace.com) for more information
 on our tools, SDKs and other work.
 
-**This position is available to remote (US) workers and can additionally
-include relocation to one of Rackspace's US offices in Austin TX, San Antonio TX,
-San Francisco, CA or Blacksburg, VA**
+**This position is available to remote workers (US or UK). US developers can also relocate to one of our offices in Austin TX, San Antonio TX, San Francisco CA, or Blacksburg VA; UK developers are free to relocate to our office in Hayes, West London.**
 
 ### Other Cool Facts:
 
