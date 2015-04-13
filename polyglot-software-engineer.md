@@ -53,7 +53,6 @@ As part of this role you also get to (based on comfort level):
 * Experience with configuration automation tools such as Ansible, Puppet and/or Chef or similar technologies
 * Ability to handle multiple tasks and prioritize work in order to maintain required productivity levels
 * An interest in expanding technical knowledge
-* Prior experience and a willingness to participate in open source projects.
 * An ability to write clear, concise and effective developer documentation.
 
 ### Responsibilities
