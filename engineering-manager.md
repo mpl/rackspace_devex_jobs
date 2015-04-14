@@ -1,7 +1,7 @@
 
 ## Senior Manager, Engineering
 
-The Rackspace Developer relations group is looking for a talented Senior Manager & Leader to help lead, grow and build our Developer Experience team. The Rackspace Developer Experience team is dedicated to making the cloud platform
+The Rackspace Developer Experience group is looking for a talented Senior Manager & Leader to help lead, grow and build our Developer Experience team. The team is dedicated to making the cloud platform
 end-to-end experience for developers, technologists, and all customers, the best experience it can be.
 
 We specialize in community outreach, documentation, client tools and SDKs. We are on the front lines, engaging with our developers and helping them build modern cloud applications, setting technical strategy for content, tools, ecosystems and more. Our team is here to not only ship one product, but to change the end-to-end experience from support, to content, tools and offerings.
