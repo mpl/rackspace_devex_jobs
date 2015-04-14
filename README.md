@@ -2,7 +2,7 @@
 
 The Rackspace Developer Experience Team is looking for a range of skills and
 roles. Take a look at the repository for open jobs; they're in markdown, so you
-know we're ok people.
+know we're okay people.
 
 Our team is dedicated to making the end-to-end experience
 for developers, technologists, and all customers on our cloud platform, the best
