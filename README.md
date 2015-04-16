@@ -1,26 +1,23 @@
 # Open Jobs for the Rackspace Developer Experience Team
 
-The Rackspace Developer relations group is looking for a range of skills and roles.
-The Rackspace Developer Experience team is dedicated to making the cloud platform
-end-to-end experience for developers, technologists, and all customers, the best
-experience it can be.
+The Rackspace Developer Experience Team is looking for a range of skills and
+roles. Take a look at the repository for open jobs; they're in markdown, so you
+know we're okay people.
 
-Take a look at the repository for open jobs; they're in markdown, so you know
-we're ok people.
-
-We specialize in community outreach, documentation, client tools and SDKs.
-We are on the front lines, engaging with our developers and helping them build
-modern cloud applications, setting technical strategy for content, tools,
-ecosystems and more. Our team is here to not only ship one product, but to
-change the end-to-end experience from support, to content, tools and offerings.
+Our team is dedicated to making the end-to-end experience
+for developers, technologists, and all customers on our cloud platform, the best
+experience it can be. We specialize in community outreach, documentation,
+client tools, and SDKs. We are on the front lines: engaging with our developers
+and helping them build modern cloud applications, setting technical strategy for
+content, tools, ecosystems and more.
 
 We sponsor OSS programs and projects, contribute upstream and foster communities.
 The team operates on the bleeding edge - from containers, to emerging tools,
-techniques and other technologies this is a chance to make a strategic impact
+techniques and other technologies. This is a chance to make a strategic impact
 not just to one team and company - but for the wider developer community!
 
 If you believe in helping define, lead, and drive strategies focused on the
-technical end user, as well as leading and growing a team of senior software
+technical end-user, as well as leading and growing a team of senior software
 developers, then we want to talk to you!
 
 ## Open Jobs:
@@ -41,8 +38,6 @@ Rackspace was recently recognized by the Anita Borg institute as one of the
 [top 13 companies for women in tech](http://mashable.com/2015/04/09/women-in-tech-top-companies/).
 
 **Equal Employment Opportunity Policy**: Rackspace is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
-
-
 
 ## To apply, email your resume to:
 
