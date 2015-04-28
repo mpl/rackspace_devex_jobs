@@ -29,7 +29,6 @@ earlier in their careers**
 
 * [Senior Manager, Engineering](https://github.com/jnoller/rackspace_devex_jobs/blob/master/engineering-manager.md)
 * [.NET/C# Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/windows-dot-net.md)
-* [Front-end / Full stack Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/front-end-full-stack.md)
 * [Polyglot Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/polyglot-software-engineer.md)
 * [Java Developer](https://github.com/jnoller/rackspace_devex_jobs/blob/master/senior-java-engineer.md)
 
